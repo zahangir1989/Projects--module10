@@ -87,6 +87,39 @@
     display: block;
     margin: 0 auto;
   }
+  /* feature section */
+
+  #feature-section-title{
+    padding-left: 20px;
+    border-left: 5px solid #FF900E;
+  }
+
+  .feature-card1{
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0 4px 20px 0 rgba(9, 1, 1, 0.06);
+    margin-bottom: 20px;
+   
+  }
+  .features{
+    gap:50px;
+  }
+  .feature-description{
+    font-size: 10px;
+  }
+
+  #paragrap{
+    font-size: 10px;
+  }
+  .feature-card1 .feature-title1{
+   font-weight: 600;
+    font-size: 1.10rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
+   
+  }
+  
+
   /* team feature relatate */
   .teams{
     align-items: center;
